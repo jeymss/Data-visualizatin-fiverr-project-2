@@ -1,0 +1,18 @@
+Schools in West Pa. School districts: Zone 6 Belmont
+
+ High Achieving Schools: 1
+ Average Achieving Schools: 6
+ Low Achieving Schools: 10
+
+% Attend High Achieving School: 12%
+# of Students Living in Zone: 7672
+
+
+Zone 3: Overbrook
+ High Achieving Schools: 0
+ Average Achieving Schools: 4
+ Low Achieving Schools: 7
+% Attending Catchment School: 37%
+% Attend High Achieving School: 3%
+# of Students Living in Zone: 4736
+

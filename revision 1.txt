@@ -1,0 +1,34 @@
+Zone 3: Overbrook
+________________________________________
+
+Asian
+0%
+Black
+92%
+Hispanic
+3%
+White
+1%
+Multiracial
+3%
+Economically Disadvantaged
+68%
+
+
+Zone 6: Belmont
+________________________________________
+
+Asian
+3%
+Black
+85%
+Hispanic
+2%
+White
+5%
+Multiracial
+4%
+Economically Disadvantaged
+76%
+
+Remove # of students attending catchment area and replace ethnicity %'s and disadvantaged %. Then we are done, My boss fees that catchment area info is not needed
